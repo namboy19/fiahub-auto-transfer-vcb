@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoSmartOtpVCB</string>
+    <string name="accessibility_service_description">TODO</string>
+    <string name="accessibility_service_name">AutoSmartOtpVCBService</string>
+    <string name="accessibility_service_id">com.fiahub.autosmartotp.vcb/.service.AutoClickServiceVcb</string>
+    <string name="bank_package_id">com.VCB</string>
+
+</resources>
